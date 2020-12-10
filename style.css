@@ -1,0 +1,28 @@
+#game{
+
+	width: 450px;
+	height: 450px;
+	background: red;
+}
+
+.block{
+	width: 150px;
+	height: 150px;
+	float: left;
+	border: 3px solid black;
+	box-sizing: border-box;
+	line-height: 70px;
+	text-emphasis: center;
+	font-size: 150px;
+	padding: 35px;
+
+}
+
+#center{
+	padding: 60px;
+}
+
+#uptext{
+	font-size: 100px;
+	color: yellow;
+}
